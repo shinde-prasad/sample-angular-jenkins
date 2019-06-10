@@ -1,10 +1,10 @@
 {
   "name": "my-angular-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --port 5000",
-    "build": "ng build --aot",
+    "start": "ng serve --aot",
+    "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
