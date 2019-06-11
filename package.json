@@ -4,8 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve --aot",
-    "cibuild": "ng test --code-coverage && ng build --prod --no-progress",
-    "build": "ng build --prod --baseHref=",
+    "build": "ng test --code-coverage && ng build --prod --no-progress",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

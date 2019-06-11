@@ -28,6 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
+## "build": "ng build --prod --baseHref=" 
 
 ## github jenkins CI/CD 
 1. Added GitHub-webhook to the `ngrok tool`. 
