@@ -4,8 +4,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve --aot",
-    "build": "ng test --code-coverage && ng build --prod --no-progress",
-    "test": "ng test",
+    "build": "ng build --prod --no-progress",
+    "test": "ng test --code-coverage ",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
